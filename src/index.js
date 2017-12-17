@@ -45,7 +45,7 @@ export default class IIJAuth {
 
   returnCredential (url: string) {
     let result
-    url = url.replace('localhost#', 'localhost?')
+    url = url.replace('localhost/#', 'localhost/?')
     this.window.destroy()
 
     try {

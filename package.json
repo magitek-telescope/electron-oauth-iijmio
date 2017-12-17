@@ -1,6 +1,6 @@
 {
   "name": "electron-oauth-iijmio",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "author": "Hanatani Takuma <mail@potato4d.me>",
   "license": "MIT",
